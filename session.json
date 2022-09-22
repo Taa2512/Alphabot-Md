@@ -1,5 +1,18 @@
-Cara mengambil session tanpa termux 
-
-https://youtu.be/7wfSvv4AHsQ
-
-get session without termux
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "kHIlmickZHUBZ5BQk8KF0PtkLCQBrbAF/hXR
+u8FAJWo="                                                  },                                                   "public": {                                            "type": "Buffer",                                    "data": "cG/yFK/JO0MohQ/PGDwRepTiZzaJ13otzswS
+ZenUmxU="
+      }
+    },
+    "signedIdentityKey": {                                 "private": {
+        "type": "Buffer",
+        "data": "sEsThUoKzEvvsTNghvOx8JxYkMfL+8SYde/b
+QA+5MmY="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "CiG4F15jf9ij7MUEx0xe4jqaPPlvukZUlbbA+f1MmVg="
